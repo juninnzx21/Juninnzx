@@ -4,13 +4,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Sou mineiro, tenho 22 anos e sou **Desenvolvedor Full-Stack.**
+Sou mineiro, tenho 22 anos e sou Desenvolvedor Full-Stack.
 
 Graduando em Análise e Desenvolvimento de Sistemas na Universidade Unopar, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor.
 
 Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
 
 **Analista de Suporte, Programador Junior.** Graduação em Análise e Desenvolvimento de Sistemas em progresso. Trabalhei como plantonista, esperando receber ligações dos funcionários e demais pessoas que prestavam algum tipo de serviço à empresa, tentando sanar o problema que a pessoa enfrentava, de uma forma remota. Caso não fosse possível agendar o chamado e colocar na fila dos colaboradores que se deslocavam até o local onde foi solicitada a ajuda, também fazia a função do deslocamento para resolução dos problemas, pois havia um revezamento: um dia um atendia as ligações e no outro se deslocava até o setor com problema. Também auxiliava nas aulas efetuando manutenções nos equipamentos utilizados para que possa haver ensino híbrido e presencial de forma preventiva, para que no momento das aulas possa ocorrer tudo da melhor forma possível, sem prejudicar a experiência dos alunos ou professores.
+
+Deixo o link direto para meu portfólio online https://portifolio-dun-nine.vercel.app/.
 
 <h2 align="left">
  🦄 Linguagens:
