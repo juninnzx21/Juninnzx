@@ -1,15 +1,15 @@
-## Olá, mundo! Meu nome é <strong>Junior Rodrigues</strong>! 👋
+## Olá, mundo! Meu nome é **Junior Rodrigues**! 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou mineiro, tenho 22 anos e sou <strong>Desenvolvedor Full-Stack</strong>.
+  Sou mineiro, tenho 22 anos e sou **Desenvolvedor Full-Stack**.
 
 Graduando em Análise e Desenvolvimento de Sistemas na Universidade Unopar, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor.
 
 Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
 
-Analista de Suporte, Programador Junior. Graduação em Analise e Desenvolvimento de Sistemas. Tabralhei como plantonista, esperando receber ligacoes dos funcionarios e demais pessoas que prestavam algum tipo de servico a empresa, tentando sanar o problema que a pessoa enfrentava, de uma forma remota, caso nao fosse possivel agendar o chamado e colocar na fila dos colaboradores que se deslocavam ate o local onde foi solicitado a ajuda, tambem fazia a funcao do deslocamento para resolucao dos problemas pois avia um revesamento um dia um atendia as ligacoes e no outro se deslocava ate o setor com problema. Tambem auxiliava nas aulas efetuando manutenções nos equipamentos utilizados para que possa ter ensino hibrido e presencial de forma preventiva para que no momento das aulas possa ocorrer tudo da melhor forma possível sem prejudicar a experiência dos alunos ou professores.
+**Analista de Suporte, Programador Junior.** Graduação em Análise e Desenvolvimento de Sistemas. Trabalhei como plantonista, esperando receber ligações dos funcionários e demais pessoas que prestavam algum tipo de serviço à empresa, tentando sanar o problema que a pessoa enfrentava, de uma forma remota. Caso não fosse possível agendar o chamado e colocar na fila dos colaboradores que se deslocavam até o local onde foi solicitada a ajuda, também fazia a função do deslocamento para resolução dos problemas, pois havia um revezamento: um dia um atendia as ligações e no outro se deslocava até o setor com problema. Também auxiliava nas aulas efetuando manutenções nos equipamentos utilizados para que possa haver ensino híbrido e presencial de forma preventiva, para que no momento das aulas possa ocorrer tudo da melhor forma possível, sem prejudicar a experiência dos alunos ou professores.
 
 <h2 align="left">
  🦄 Linguagens:
@@ -19,12 +19,12 @@ Analista de Suporte, Programador Junior. Graduação em Analise e Desenvolviment
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="left">
-  💌 Sinta-se a vontade para entrar em contato: ⤵️
+  💌 Sinta-se à vontade para entrar em contato: ⤵️
 </p>
 
 <a href="https://www.linkedin.com/in/junior-rodrigues-68961b288/" title="LinkedIn" target="_blank">
@@ -36,9 +36,11 @@ Analista de Suporte, Programador Junior. Graduação em Analise e Desenvolviment
 <a href="https://www.instagram.com/juninnzx.1/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-<a href="https://www.twitch.tv/juninnzx1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/juninnzx1"  title="Twitch" target="_blank">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
-<a href = "mailto:djuninnzx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:djuninnzx@gmail.com"  title="Email" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 
 <br>
