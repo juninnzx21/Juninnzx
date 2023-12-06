@@ -23,7 +23,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23333?style=for-the-badge&logo=git&logoColor=white)
 
 
 <p align="left">
