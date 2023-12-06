@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou mineiro, tenho 22 anos e sou **Desenvolvedor Full-Stack**.
+Sou mineiro, tenho 22 anos e sou Desenvolvedor Full-Stack.
 
 Graduando em Análise e Desenvolvimento de Sistemas na Universidade Unopar, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor.
 
@@ -50,7 +50,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=juninnzx21&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api/?username=juninnzx21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github stats"
       />
     </td>
