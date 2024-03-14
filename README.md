@@ -12,7 +12,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 
 **Analista de Suporte, Programador Junior.** Graduação em Análise e Desenvolvimento de Sistemas em progresso. Trabalhei como plantonista, esperando receber ligações dos funcionários e demais pessoas que prestavam algum tipo de serviço à empresa, tentando sanar o problema que a pessoa enfrentava, de uma forma remota. Caso não fosse possível agendar o chamado e colocar na fila dos colaboradores que se deslocavam até o local onde foi solicitada a ajuda, também fazia a função do deslocamento para resolução dos problemas, pois havia um revezamento: um dia um atendia as ligações e no outro se deslocava até o setor com problema. Também auxiliava nas aulas efetuando manutenções nos equipamentos utilizados para que possa haver ensino híbrido e presencial de forma preventiva, para que no momento das aulas possa ocorrer tudo da melhor forma possível, sem prejudicar a experiência dos alunos ou professores.
 
-Deixo o link direto para meu portfólio online [Portifólio](http://juninnzxtec.com.br/).
+Deixo o link direto para meu portfólio online [Portfólio](http://juninnzxtec.com.br/).
 
 <h2 align="left">
  🦄 Linguagens:
