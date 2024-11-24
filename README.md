@@ -31,9 +31,10 @@ Deixo o link direto para meu portfólio online [Portfólio](http://juninnzxtec.c
 ![DOCKER](https://img.shields.io/badge/Docker-%23333?style=for-the-badge&logo=git&logoColor=white)
 ![DOCKER COMPOSER](https://img.shields.io/badge/DockerComposer-%23333?style=for-the-badge&logo=git&logoColor=white)
 ![CODIGNITER3](https://img.shields.io/badge/Codigniter3-%23333?style=for-the-badge&logo=git&logoColor=white)
-![DBWEAVER](https://img.shields.io/badge/DBweaver-%23333?style=for-the-badge&logo=git&logoColor=white)
+![DBWEAVER](https://img.shields.io/badge/DBweaver-%23333?style=for-the-badge&logo=git&logoColor=chartreuse)
 ![NODE.JS](https://img.shields.io/badge/Node.js-%23333?style=for-the-badge&logo=git&logoColor=white)
 ![REACT](https://img.shields.io/badge/ReactNative-%23333?style=for-the-badge&logo=git&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-%23333?style=for-the-badge&logo=git&logoColor=red)
 
 
 <p align="left">
