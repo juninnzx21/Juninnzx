@@ -23,9 +23,17 @@ Deixo o link direto para meu portfólio online [Portfólio](http://juninnzxtec.c
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/Ajax-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHUB](https://img.shields.io/badge/GitHub-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23333?style=for-the-badge&logo=git&logoColor=white)
+![DOCKER](https://img.shields.io/badge/Docker-%23333?style=for-the-badge&logo=git&logoColor=white)
+![DOCKER COMPOSER](https://img.shields.io/badge/DockerComposer-%23333?style=for-the-badge&logo=git&logoColor=white)
+![CODIGNITER3](https://img.shields.io/badge/Codigniter3-%23333?style=for-the-badge&logo=git&logoColor=white)
+![DBWEAVER](https://img.shields.io/badge/DBweaver-%23333?style=for-the-badge&logo=git&logoColor=white)
+![NODE.JS](https://img.shields.io/badge/Node.js-%23333?style=for-the-badge&logo=git&logoColor=white)
+![REACT](https://img.shields.io/badge/ReactNative-%23333?style=for-the-badge&logo=git&logoColor=white)
 
 
 <p align="left">
