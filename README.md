@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Sou mineiro, tenho 22 anos e sou Desenvolvedor Full-Stack.
+Sou mineiro, tenho 23 anos e sou Desenvolvedor Full-Stack.
 
 Graduando em Análise e Desenvolvimento de Sistemas na Universidade Unopar, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor.
 
