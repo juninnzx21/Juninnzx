@@ -3,13 +3,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-Sou mineiro, tenho 23 anos e sou Desenvolvedor Full Stack em constante evolução, com foco em PHP, Laravel, JavaScript, Vue.js, Tailwind CSS e desenvolvimento de sistemas web modernos.
+Sou mineiro, tenho 24 anos e atuo como Desenvolvedor Full Stack, com foco em criar sistemas modernos, úteis e bem estruturados para problemas reais de negócio.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas pela Unopar e venho aprimorando minhas habilidades em desenvolvimento backend, frontend, banco de dados, integrações, APIs e automações.
+Minha base principal está em PHP, Laravel, JavaScript, Vue.js, Tailwind CSS e desenvolvimento web, mas também venho expandindo minha atuação para APIs, automações, integrações com IA, aplicações SaaS e projetos com deploy em ambiente real.
 
-Tenho experiência com suporte técnico, manutenção preventiva, atendimento remoto e presencial, além de vivência em resolução de problemas em ambientes corporativos. Essa base me ajudou a desenvolver uma visão prática sobre tecnologia, usuários e processos reais de negócio.
+Atualmente curso Análise e Desenvolvimento de Sistemas pela Unopar e sigo em constante evolução técnica, aprofundando conhecimentos em backend, frontend, banco de dados, arquitetura, automação de processos e publicação de aplicações web.
 
-Hoje meu objetivo é evoluir cada vez mais como desenvolvedor Full Stack, criando soluções úteis, escaláveis, modernas e bem estruturadas.
+Tenho experiência anterior com suporte técnico, manutenção preventiva, atendimento remoto e presencial e resolução de problemas em ambientes corporativos. Isso fortaleceu minha visão prática sobre tecnologia, operação e experiência do usuário.
+
+Hoje meu objetivo é evoluir cada vez mais como desenvolvedor Full Stack, participando da criação de produtos sólidos, escaláveis e bem pensados, desde a interface até a entrega em produção.
 
 📌 Portfólio: [juninnzxtec.com.br](https://www.juninnzxtec.com.br/)
 </p>
@@ -18,12 +20,29 @@ Hoje meu objetivo é evoluir cada vez mais como desenvolvedor Full Stack, criand
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor Full Stack PHP / Laravel
+- 💻 Desenvolvedor Full Stack com foco em PHP, Laravel e ecossistema web moderno
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas
-- 🛠️ Experiência com suporte técnico, manutenção e atendimento ao usuário
-- 🌐 Desenvolvimento de sistemas web, dashboards, landing pages e APIs
-- 📚 Sempre estudando novas tecnologias e boas práticas
-- 🎯 Buscando evolução profissional como desenvolvedor Laravel / Full Stack
+- 🌐 Experiência com sistemas administrativos, painéis, landing pages, APIs e sistemas SaaS
+- 🤖 Interesse forte em automações, integrações com IA, WhatsApp, Telegram e fluxos operacionais
+- 🛠️ Vivência com suporte técnico, manutenção, atendimento ao usuário e resolução de problemas reais
+- 🚀 Perfil prático, com foco em construir, publicar, testar e colocar sistemas para funcionar de verdade
+- 📚 Sempre estudando novas tecnologias, arquitetura, performance e boas práticas de desenvolvimento
+- 🎯 Buscando evolução contínua como desenvolvedor Full Stack e construtor de produtos digitais
+
+---
+
+## 🧠 O que eu construo
+
+Tenho interesse e experiência prática em projetos como:
+
+- Sistemas administrativos e ERP sob medida
+- Dashboards gerenciais e operacionais
+- Landing pages profissionais e páginas de conversão
+- Sistemas SaaS
+- APIs REST e integrações entre plataformas
+- Automações com WhatsApp, Telegram, e-mail e processos internos
+- Soluções com inteligência artificial aplicada
+- Sistemas para gestão financeira, estoque, frota, atendimento e operação
 
 ---
 
@@ -33,6 +52,7 @@ Hoje meu objetivo é evoluir cada vez mais como desenvolvedor Full Stack, criand
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -43,32 +63,37 @@ Hoje meu objetivo é evoluir cada vez mais como desenvolvedor Full Stack, criand
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
 
-### Ferramentas
+### Ferramentas e Infra
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Multiplataforma e Deploy
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-0A0A0A?style=for-the-badge&logo=serverfault&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-## 📌 Projetos e interesses
+## 📌 Diferenciais
 
-Tenho interesse em projetos envolvendo:
-
-- Sistemas administrativos
-- Dashboards gerenciais
-- Landing pages profissionais
-- Sistemas SaaS
-- APIs REST
-- Automações com WhatsApp, Telegram e e-mail
-- Integrações com IA
-- Gestão financeira, estoque, frota e atendimento
+- Visão prática de produto, operação e usuário final
+- Facilidade para transformar necessidade real em sistema funcional
+- Interesse em projetos com impacto direto no negócio
+- Perfil mão na massa, com foco em implementação, testes, deploy e melhoria contínua
+- Busca por código limpo, organização, escalabilidade e experiência consistente
 
 ---
 
@@ -121,7 +146,7 @@ Tenho interesse em projetos envolvendo:
 ## 📫 Contato
 
 <p align="left">
-  Sinta-se à vontade para entrar em contato comigo:
+Fique à vontade para entrar em contato comigo:
 </p>
 
 <a href="https://www.linkedin.com/in/junior-rodrigues-68961b288/" title="LinkedIn" target="_blank">
